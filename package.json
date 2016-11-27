@@ -1,0 +1,26 @@
+{
+  "name": "node-express-playground",
+  "version": "1.0.0",
+  "description": "Node and express playground",
+  "main": "./app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayvafa/node-express-playground.git"
+  },
+  "author": "Raymond Vafa <raymond.vafa@gmail.com> (http://rayvafa.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayvafa/node-express-playground/issues"
+  },
+  "homepage": "https://github.com/rayvafa/node-express-playground#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "node-express-playground",
+  "description": "Node and express playground",
+  "main": "./app.js",
+  "authors": [
+    "Raymond Vafa <raymond.vafa@gmail.com> (http://rayvafa.me)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rayvafa/node-express-playground",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
